@@ -1,0 +1,21 @@
+.content-title h2 {
+  color: #9a9a9a;
+}
+table {
+  max-width: 100% !important;
+}
+tr {
+  max-width: 100% !important;
+}
+td {
+  max-width: 100px !important;
+}
+td img {
+  width: 100% auto;
+}
+.tiny-note {
+  font-size: 8pt;
+}
+.muted {
+  color: #9a9a9a !important;
+}
